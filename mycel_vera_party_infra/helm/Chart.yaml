@@ -1,0 +1,6 @@
+apiVersion: v2
+name: mycel_vera_party
+description: Mycel Vera Party
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
